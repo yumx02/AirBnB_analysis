@@ -3,11 +3,11 @@
 # 1. Installation
 
 ## version
-python 7.8.0
-numpy 1.17.2
-pandas 0.25.1
-matplotlib 3.1.1 
-seaborn 0.9.0
+python 7.8.0  
+numpy 1.17.2  
+pandas 0.25.1  
+matplotlib 3.1.1   
+seaborn 0.9.0  
 
 ## import libraries
 ``````.py
